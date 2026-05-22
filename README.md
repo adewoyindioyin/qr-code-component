@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./design/desktop-design.jpg)
+![](./qr-code-component-main/design/desktop-design.jpg)
 
 ### Links
 - Live Site URL: [https://adewoyindioyin.github.io/qr-code-component/qr-code-component-main/](https://adewoyindioyin.github.io/qr-code-component/qr-code-component-main/)
