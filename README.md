@@ -36,4 +36,4 @@ body {
 
 ## Author
 
-- Frontend Mentor - [@TriumphantAdewoyin](https://www.frontendmentor.io/profile/TriumphantAdewoyin)
+- Frontend Mentor - [@adewoyindioyin](https://www.frontendmentor.io/profile/adewoyindioyin)
